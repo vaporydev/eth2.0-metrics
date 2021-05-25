@@ -1,4 +1,4 @@
-# ETH 2.0 metrics
+# VAP 2.0 metrics
 
 Discussion of [ETH 2.0 metrics](metrics.md) for Prometheus.
 
